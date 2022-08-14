@@ -1,4 +1,4 @@
-package leetcode._600_622;
+package leetcode._600._622;
 
 /**
  * 循环队列
